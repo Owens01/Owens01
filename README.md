@@ -35,7 +35,7 @@ Mantine · Material UI · Chart.js
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="start">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Owens01&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
