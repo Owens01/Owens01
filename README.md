@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 Frontend Engineer with 4+ years of commercial experience building production-grade web applications.
 
