@@ -20,7 +20,7 @@ I focus on:
 - SSR and performance optimization  
 - Clean, maintainable component design  
 
-I work closely with product and backend teams, translating business requirements into reliable, user-friendly interfaces
+I work closely with product and backend teams, translating business requirements into reliable, user-friendly interfaces.
 
 ---
 
