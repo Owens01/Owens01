@@ -10,7 +10,7 @@
 
 ## About Me
 
-Frontend Engineer with years of commercial experience building production-grade web & mobile applications
+Frontend Engineer with years of commercial experience building production-grade web & mobile applications.
 
 I focus on:
 
@@ -27,7 +27,7 @@ I work closely with product and backend teams, translating business requirements
 ## 🛠 Tech Stack
 
 ### Frontend
-React · Next.js (App Router) · TypeScript . React Native
+React · Next.js · TypeScript . React Native
 
 Redux · Zustand · TanStack Query  
 
@@ -37,7 +37,7 @@ Mantine · Material UI · Chart.js
 
 ###  GitHub Stats
 
-<p align="start">
+### <p align="start">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Owens01&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 <p align="start">
