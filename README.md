@@ -33,11 +33,11 @@ Redux · Zustand · TanStack Query
 
 ---
 
-###  GitHub Stats
+<!-- ###  GitHub Stats -->
 
-### <p align="start">
+<!-- <p align="start">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Owens01&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 <p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owens01&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+</p> -->
