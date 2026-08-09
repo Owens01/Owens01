@@ -27,11 +27,9 @@ I work closely with product and backend teams, translating business requirements
 ## 🛠 Tech Stack
 
 ### Frontend
-React · Next.js · TypeScript . React Native
+React · Next.js · TypeScript . React Native . TanStack Start
 
-Redux · Zustand · TanStack Query  
-
-Mantine · Material UI · Chart.js  
+Redux · Zustand · TanStack Query
 
 ---
 
