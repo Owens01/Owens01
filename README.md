@@ -10,7 +10,7 @@
 
 ## About Me
 
-Frontend Engineer with years of commercial experience building production-grade web & mobile applications.
+Frontend Engineer with years of commercial experience building production-grade web & mobile applications
 
 I focus on:
 
