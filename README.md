@@ -1,6 +1,6 @@
 # Agunwa Chidiebele (Owen)
 
-**Frontend Engineer (React / Next.js / React Native)**  
+**Founder** [RealMe AI](https://realme.com.ng/en/d)
 
 📍 Remote  
 📫 agunwachidichikere@gmail.com  
@@ -8,7 +8,7 @@
 
 ---
 
-## About Me
+<!-- ## About Me
 
 Frontend Engineer with years of commercial experience building production-grade web & mobile applications.
 
@@ -33,7 +33,7 @@ Redux · Zustand · TanStack Query
 
 ---
 
-<!-- ###  GitHub Stats -->
+###  GitHub Stats -->
 
 <!-- <p align="start">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Owens01&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
