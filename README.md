@@ -1,5 +1,4 @@
 # Agunwa Chidiebele (Owen)
-
 **Founder** [RealMe AI](https://realme.com.ng/en/d)
 
 📍 Remote  
