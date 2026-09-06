@@ -2,8 +2,9 @@
 **Founder of** [RealMe AI](https://realme.com.ng/en/d)
 
 📍 Remote  
-📫 agunwachidichikere@gmail.com  
+📄 [View My CV](https://drive.google.com/file/d/1wFtisqhqhT29naPfi0Frk1Caxs92aDxA/view?usp=sharing)  
 🔗 [LinkedIn](https://www.linkedin.com/in/agunwa-chidiebele-17a09932a/)  
+📫 agunwachidichikere@gmail.com  
 
 ---
 
