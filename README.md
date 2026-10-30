@@ -12,7 +12,6 @@
 
 <!-- ## About Me
 Frontend Engineer with years of commercial experience building production-grade web & mobile applications
-
 I focus on:
 
 - Scalable frontend architecture  
